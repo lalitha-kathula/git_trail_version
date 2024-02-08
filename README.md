@@ -1,1 +1,2 @@
-# git_trail_version
+this is my index page
+git session
